@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+body {
+	background: url('one.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.navbar {
+	background-color: deeppink;
+	border:none;
+}
